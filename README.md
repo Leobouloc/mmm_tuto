@@ -2,9 +2,11 @@
 
 ## Les fichiers de ce tutoriel:
 
-- La source contient des informations associées à des lycées: [source_tuto.csv](csvs/source_tuto.csv) <a href="csvs/source_tuto.csv" download>Télécharger</a>
+- La source contient des informations associées à des lycées: [source_tuto.csv](csvs/source_tuto.csv)
 - La référence est une base de lycées avec leur identifiant unique UAI: [ref_tuto.csv](csvs/ref_tuto.csv)
 
+NB: Cliquer sur "raw" puis clique droit et "enregistrer sous" pour récupérer les fichiers...
+ 
 ### Upload des deux fichiers et création du projet:
 ![Alt Text](gifs/tuto_upload.gif)
 
