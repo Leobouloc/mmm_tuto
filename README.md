@@ -42,13 +42,11 @@ Quand les performances semblent satisfaisantes (après au moins 5 labellisations
 ![Alt Text](gifs/tuto_labelling_5.gif)
 
 
-
-
-Résultats:
+### Résultats:
 On voit pour chaque ligne de la source la correspondance dans le référentiel qui a été trouvée par la machine (ou non). Le bouton vrai/faux permet d’indiquer si le match trouvé est effectivement bon. Certains matchs sont déjà à “faux” car la machine n’a pas une confiance suffisante dans le match proposés. Les matchs à “faux” ne seront pas présents dans le fichier final.
 
-[tuto_resultats_1.gif]
+![Alt Text](gifs/tuto_resultats_1.gif)
 
 On peut trier les résultats par confiance. Si les résultats ne sont pas satisfaisants on peut revenir à la labellisation ou même changer l’appariement de colonnes. Sinon, on peut télécharger le fichier avec les résultats du matching.
 
-[tuto_resultats_2.gif]
+![Alt Text](gifs/tuto_resultats_2.gif)
